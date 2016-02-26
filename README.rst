@@ -1,6 +1,8 @@
 Geonode_Custom
 ========================
 
+Atelier Gestion de codes sources !!!
+
 You should write some docs, it's good for the soul.
 
 Installation
