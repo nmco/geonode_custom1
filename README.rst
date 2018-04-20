@@ -3,4 +3,4 @@ Geonode_Custom
 
 Atelier Gestion de codes sources !!!
 
-Cleaning .... dfdfdfdfdfdf
+Cleaning .... CHANGE IN README
