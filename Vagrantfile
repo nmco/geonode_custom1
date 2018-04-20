@@ -23,5 +23,6 @@ Vagrant.configure("2") do |config|
   	dev.vm.provider :virtualbox do |vb| 
        vb.customize [ "modifyvm", :id, "--name", "{{ project_name }}-dev","--memory", 4096 ]
   	end
+    
   end
 end
