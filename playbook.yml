@@ -4,6 +4,6 @@
     app_name: {{ project_name }} 
     github_user: {{ project_name }}
     server_name: 0.0.0.0
-    deploy_user: user 
+    deploy_user: user 2222
   roles:
      - { role: ortelius.geonode }
